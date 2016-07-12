@@ -1,0 +1,14 @@
+layout_spectrum: 0.04780642897821963
+typography_spectrum: 0.07972279377281666
+color:
+  brandStrength: 0.21896957536228
+  lightness: 0.9360607033595443
+  saturation: 0.04922129609622061
+  rhythmicContrast: 0.5065225714351982
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Lifefeed
